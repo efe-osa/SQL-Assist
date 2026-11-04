@@ -16,8 +16,8 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "@langchain/community": "^0.0.34",
-    "@langchain/core": "^0.1.63",
+    "@langchain/community": "^0.3.0",
+    "@langchain/core": "^0.3.80",
     "axios": "^1.9.0",
     "compression": "^1.7.4",
     "cors": "^2.8.5",
@@ -25,13 +25,13 @@
     "express": "^4.22.0",
     "express-rate-limit": "^7.1.5",
     "helmet": "^7.1.0",
-    "langchain": "^0.1.25",
+    "langchain": "^0.3.0",
     "langsmith": "^0.3.30",
     "reflect-metadata": "^0.2.2",
     "sqlite3": "^5.1.7",
-    "typeorm": "^0.3.20",
+    "typeorm": "^0.3.26",
     "winston": "^3.11.0",
-    "zod": "^3.22.4"
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "@eslint/js": "^9.28.0",
