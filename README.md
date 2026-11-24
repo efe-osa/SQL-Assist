@@ -17,6 +17,14 @@ SQL Assist is a full-stack TypeScript application with a React frontend and an E
 
 The repository also provides Docker configuration for running the backend together with SQLite.
 
+## Project Structure
+
+``` sql-assistant/
+├── client/           # Frontend application
+├── server/           # Backend API and services
+└── .github/          # GitHub workflows and configurations
+```
+
 ## Installation
 
 ### Prerequisites
